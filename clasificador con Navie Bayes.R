@@ -1,3 +1,5 @@
+
+##
 ####Probabilistic Learning – Classification Using Naive Bayes####
 ####Step 1 – collecting data####
 SMSSpamCollection <- read.delim("C:/Users/Solutio/Desktop/smsspam/SMSSpamCollection.txt", header=FALSE, stringsAsFactors=FALSE)
